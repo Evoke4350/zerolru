@@ -4,10 +4,6 @@ A small, fast, **zero-dependency LRU (least-recently-used) cache with
 optional per-entry TTL** for Python 3.11+. Pure standard library — nothing
 to `pip install`. O(1) `get`/`put`, profiled and benchmarked.
 
-> Keywords: python lru cache, lru cache ttl, lru cache with expiry,
-> in-memory cache, zero dependency cache, stdlib cache.
-> Suggested GitHub topics: `python` `lru-cache` `ttl` `cache` `zero-dependency` `stdlib`
-
 ## Features
 
 - **Zero dependencies** — stdlib only. Vendor one file.
